@@ -1,0 +1,15 @@
+Source Target Type
+Cdc6 ORC 1
+Cdt1 ORC 1
+Pre_RC ORC 1
+ORC Cdc6 1
+Cdc6 Cdc6 1
+Cdt1 Cdc6 1
+Pre_RC Cdc6 1
+ORC Cdt1 1
+Cdc6 Cdt1 1
+geminin Cdt1 2
+Pre_RC Cdt1 1
+ORC Pre_RC 1
+Cdc6 Pre_RC 1
+Cdt1 Pre_RC 1

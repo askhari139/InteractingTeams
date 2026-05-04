@@ -1,0 +1,11 @@
+Source Target Type
+Integrin ILK 1
+Integrin FAK 1
+Integrin Src 1
+FAK Src 1
+Nectin3 Necl5 2
+Src SPRY2 1
+Necl5 SPRY2 2
+Nectin3 J_Ecadherin 1
+J_Ecadherin J_bcatenin 1
+J_bcatenin J_acatenin 1

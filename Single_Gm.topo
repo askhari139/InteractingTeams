@@ -1,0 +1,9 @@
+Source Target Type
+mTORC1 PRAS40 2
+TSC2 Rheb 2
+DAG Rheb 1
+PRAS40 mTORC1 2
+Rheb mTORC1 1
+mTORC1 S6K 1
+mTORC1 h_4EBP1 2
+h_4EBP1 eIF4E 2

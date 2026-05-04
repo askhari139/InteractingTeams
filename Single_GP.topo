@@ -1,0 +1,14 @@
+Source Target Type
+p110_H p110_H 1
+FoxO3 p110_H 1
+Nedd4L p110_H 2
+p110_H PI3K_H 1
+p110_H AKT_H 1
+PI3K_H AKT_H 1
+AKT_H FoxO3 2
+p110_H PLCgamma 1
+PI3K_H PLCgamma 1
+PLCgamma IP3 1
+IP3 Ca2p 1
+IP3 Nedd4L 1
+Ca2p Nedd4L 1
