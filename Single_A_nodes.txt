@@ -1,0 +1,10 @@
+FAK
+ILK
+Integrin
+J_Ecadherin
+J_acatenin
+J_bcatenin
+Necl5
+Nectin3
+SPRY2
+Src

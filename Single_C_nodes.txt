@@ -1,0 +1,14 @@
+AMOT
+ApicalBasal_Pol
+Ecadherin_mRNA_H
+FocalAdhesions
+Lats1_2
+Mst1_2
+N_bcatenin
+PTEN_c
+Stress_Fibers
+TAZ
+TRIO
+WT1
+YAP
+miR_29c
