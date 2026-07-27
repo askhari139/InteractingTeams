@@ -1,0 +1,7 @@
+module_abbr,source_network,l_max,raw_module_T_s
+AS,Single_AS,10,0.7966346153846154
+C,Single_C,10,0.7382187499999999
+E,Single_E,10,0.9180555555555555
+M,Single_M,10,0.645
+PS,Single_PS,10,0.08597163233790597
+RS,Single_RS,10,0.9164930555555557
