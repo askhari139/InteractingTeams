@@ -1,0 +1,33 @@
+b_catenin_TCF4 : 
+Ecadherin_mRNA : MCRIP1
+LEF1 : NfkB SMAD2_3_4
+miR_200 : c_Myb p21
+miR_34 : 
+N_bcatenin_H : CyclinE GSK3 J_acatenin N_bcatenin SMAD2_3_4
+SNAI1 : GSK3 HMGA2 NfkB
+SNAI2 : HMGA2 N_bcatenin SMAD2_3_4
+TGFb_secr : 
+Twist : Casp3 HMGA2 NfkB
+ZEB1 : 
+ZEB1_H : 
+Fast_Migration : FocalAdhesions Stress_Fibers
+Horizontal_Pol : ApicalBasal_Pol ECM FAK FocalAdhesions TAZ
+IQGAP1_LeadingE : CellDensity_High FocalAdhesions Grb2
+Merlin : AKT_H ILK J_acatenin J_bcatenin
+PAK1 : 
+Rac1 : Casp3 FocalAdhesions J_Ecadherin Necl5 Nectin3 Stiff_ECM TRIO
+Cdc20 : Mad2
+Cdc25A : CHK1 CyclinE E2F1 GSK3 pRB
+Cdc25B : f4N_DNA
+Cdc25C : CHK1 f4N_DNA
+Cdh1 : 
+Cdk1 : CHK1
+CyclinA : 
+CyclinA_mRNA : CAD E2F1 pRB
+CyclinB : FoxO3
+Emi1 : A_Kinetochores E2F1 p21 pRB U_Kinetochores
+FoxM1 : CyclinE Myc YAP
+pAPC : 
+Plk1 : Plk1_H
+UbcH10 : 
+Wee1 : Casp3 CHK1 Replication

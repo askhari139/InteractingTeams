@@ -1,0 +1,33 @@
+BAD : AKT_B AKT_H ERK S6K
+BAK : 
+BAX : 
+BCL2 : Cdk1 CyclinB Plk1
+BCLXL : Cdk1 CyclinB Plk1 SMAD2_3_4
+BID : 
+BIK : AKT_H SMAD2_3_4
+BIM : ERK FoxO3 GSK3 NfkB Runx1
+Casp2 : Cdk1 CyclinB
+Casp3 : 
+Casp8 : 
+Casp9 : 
+Cyto_C : 
+DR4_5 : Trail
+IAPs : AKT_H
+MCL_1 : AKT_B Cdk1 CyclinB E2F1 ERK GSK3
+SMAC : 
+A_Kinetochores : Cdc20 Cdh1 Cdk1 CyclinB pAPC Plk1 Src
+ATR : 
+CHK1 : 
+Cytokinesis : FAK Src
+Ect2 : Cdh1
+f4N_DNA : CAD CyclinA Pre_RC
+Mad2 : 
+Plk1_H : FoxM1 FoxO1 FoxO3 Plk1
+Replication : CAD Cdc25A CyclinA CyclinE E2F1 Pre_RC
+U_Kinetochores : Cdh1 Cdk1 CyclinB
+Fast_Migration : FocalAdhesions Stress_Fibers
+Horizontal_Pol : ApicalBasal_Pol ECM FAK FocalAdhesions TAZ
+IQGAP1_LeadingE : CellDensity_High FocalAdhesions Grb2
+Merlin : AKT_H ILK J_acatenin J_bcatenin
+PAK1 : 
+Rac1 : FocalAdhesions J_Ecadherin miR_200 miR_34 Necl5 Nectin3 Stiff_ECM TRIO

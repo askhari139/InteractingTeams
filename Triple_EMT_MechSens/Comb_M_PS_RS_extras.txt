@@ -1,0 +1,28 @@
+Fast_Migration : FocalAdhesions Stress_Fibers
+Horizontal_Pol : ApicalBasal_Pol ECM FAK FocalAdhesions TAZ
+IQGAP1_LeadingE : CellDensity_High FocalAdhesions Grb2
+Merlin : AKT_H ILK J_acatenin J_bcatenin
+PAK1 : 
+Rac1 : Casp3 FocalAdhesions J_Ecadherin miR_200 miR_34 Necl5 Nectin3 Stiff_ECM TRIO
+Cdc20 : Mad2
+Cdc25A : CHK1 GSK3
+Cdc25B : f4N_DNA
+Cdc25C : CHK1 f4N_DNA
+Cdh1 : 
+Cdk1 : CHK1
+CyclinA : 
+CyclinA_mRNA : CAD
+CyclinB : FoxO3
+Emi1 : A_Kinetochores U_Kinetochores
+FoxM1 : YAP
+pAPC : 
+Plk1 : Plk1_H
+UbcH10 : 
+Wee1 : Casp3 CHK1 Replication
+CyclinD1 : CHK1 GSK3 p15 YAP
+CyclinE : Casp3 Cdc6 CHK1 Pre_RC
+E2F1 : CAD YAP
+Myc : eIF4E ERK GSK3 SMAD2_3_4 YAP
+p21 : Casp3 p21_mRNA
+p27Kip1 : Casp3 FoxO1 FoxO3 Necl5
+pRB : Casp3

@@ -1,0 +1,42 @@
+BAD : AKT_B AKT_H ERK S6K
+BAK : 
+BAX : 
+BCL2 : 
+BCLXL : SMAD2_3_4
+BID : 
+BIK : AKT_H SMAD2_3_4
+BIM : ERK FoxO3 GSK3 NfkB Runx1
+Casp2 : 
+Casp3 : 
+Casp8 : 
+Casp9 : 
+Cyto_C : 
+DR4_5 : Trail
+IAPs : AKT_H
+MCL_1 : AKT_B E2F1 ERK GSK3
+SMAC : 
+A_Kinetochores : Src
+ATR : 
+CHK1 : 
+Cytokinesis : FAK Src
+Ect2 : 
+f4N_DNA : CAD Pre_RC
+Mad2 : 
+Plk1_H : FoxO1 FoxO3
+Replication : CAD CyclinE E2F1 Pre_RC
+U_Kinetochores : 
+Cdc20 : 
+Cdc25A : CyclinE E2F1 GSK3 pRB
+Cdc25B : 
+Cdc25C : 
+Cdh1 : 
+Cdk1 : 
+CyclinA : 
+CyclinA_mRNA : CAD E2F1 pRB
+CyclinB : FoxO3
+Emi1 : E2F1 p21 pRB
+FoxM1 : CyclinE Myc YAP
+pAPC : 
+Plk1 : 
+UbcH10 : 
+Wee1 : 

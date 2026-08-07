@@ -1,0 +1,53 @@
+BAD : AKT_B AKT_H ERK S6K
+BAK : 
+BAX : 
+BCL2 : U_Kinetochores
+BCLXL : SMAD2_3_4 U_Kinetochores
+BID : 
+BIK : AKT_H SMAD2_3_4
+BIM : ERK FoxO3 GSK3 NfkB Runx1
+Casp2 : Mad2 U_Kinetochores
+Casp3 : 
+Casp8 : 
+Casp9 : 
+Cyto_C : 
+DR4_5 : Trail
+IAPs : AKT_H
+MCL_1 : AKT_B ERK GSK3 U_Kinetochores
+SMAC : 
+AMOT : Merlin
+ApicalBasal_Pol : CellDensity_High ECM Horizontal_Pol J_acatenin J_bcatenin J_Ecadherin Nectin3
+Ecadherin_mRNA_H : Ecadherin_mRNA
+FocalAdhesions : ECM FAK Integrin IQGAP1_LeadingE Rac1 Stiff_ECM
+Lats1_2 : Merlin
+miR_29c : 
+Mst1_2 : 
+N_bcatenin : GSK3
+PTEN_c : ERK GSK3 S6K
+Stress_Fibers : CellDensity_High Stiff_ECM
+TAZ : J_acatenin Merlin
+TRIO : 
+WT1 : 
+YAP : J_acatenin Merlin
+Cdc20 : Mad2
+Cdc25A : CHK1 GSK3
+Cdc25B : f4N_DNA
+Cdc25C : CHK1 f4N_DNA
+Cdh1 : 
+Cdk1 : CHK1
+CyclinA : 
+CyclinA_mRNA : CAD
+CyclinB : FoxO3
+Emi1 : A_Kinetochores U_Kinetochores
+FoxM1 : 
+pAPC : 
+Plk1 : Plk1_H
+UbcH10 : 
+Wee1 : CHK1 Replication
+CyclinD1 : CHK1 GSK3 p15
+CyclinE : Cdc6 CHK1 Pre_RC
+E2F1 : CAD
+Myc : eIF4E ERK GSK3 SMAD2_3_4
+p21 : p21_mRNA
+p27Kip1 : FoxO1 FoxO3 Necl5
+pRB : 

@@ -1,0 +1,39 @@
+AMOT : 
+ApicalBasal_Pol : CellDensity_High ECM J_acatenin J_bcatenin J_Ecadherin Nectin3
+Ecadherin_mRNA_H : 
+FocalAdhesions : ECM FAK Integrin Stiff_ECM
+Lats1_2 : 
+miR_29c : 
+Mst1_2 : 
+N_bcatenin : Casp3 GSK3
+PTEN_c : ERK GSK3 S6K
+Stress_Fibers : CellDensity_High Stiff_ECM
+TAZ : J_acatenin
+TRIO : 
+WT1 : 
+YAP : J_acatenin
+b_catenin_TCF4 : 
+Ecadherin_mRNA : MCRIP1
+LEF1 : NfkB SMAD2_3_4
+miR_200 : c_Myb
+miR_34 : 
+N_bcatenin_H : CyclinA GSK3 J_acatenin SMAD2_3_4
+SNAI1 : GSK3 HMGA2 NfkB
+SNAI2 : HMGA2 SMAD2_3_4
+TGFb_secr : 
+Twist : Casp3 HMGA2 NfkB
+ZEB1 : 
+ZEB1_H : 
+Fast_Migration : 
+Horizontal_Pol : ECM FAK
+IQGAP1_LeadingE : CellDensity_High Grb2
+Merlin : AKT_H ILK J_acatenin J_bcatenin
+PAK1 : 
+Rac1 : Casp3 J_Ecadherin Necl5 Nectin3 Stiff_ECM
+CyclinD1 : CHK1 GSK3 p15
+CyclinE : Casp3 Cdc6 CHK1 Pre_RC
+E2F1 : CAD CyclinA
+Myc : eIF4E ERK GSK3 SMAD2_3_4
+p21 : Casp3 p21_mRNA
+p27Kip1 : Casp3 Cdk1 CyclinA CyclinB FoxO1 FoxO3 Necl5
+pRB : Casp3 CyclinA
