@@ -1,0 +1,31 @@
+A_Kinetochores : Cdc20 Cdh1 Cdk1 CyclinB pAPC Plk1 Src
+ATR : 
+CHK1 : 
+Cytokinesis : FAK Src
+Ect2 : Cdh1
+f4N_DNA : CAD CyclinA Pre_RC
+Mad2 : 
+Plk1_H : FoxM1 FoxO1 FoxO3 Plk1
+Replication : CAD Cdc25A CyclinA Pre_RC
+U_Kinetochores : Cdh1 Cdk1 CyclinB
+AMOT : Merlin
+ApicalBasal_Pol : CellDensity_High ECM Horizontal_Pol J_acatenin J_bcatenin J_Ecadherin Nectin3
+Ecadherin_mRNA_H : Ecadherin_mRNA
+FocalAdhesions : ECM FAK Integrin IQGAP1_LeadingE Rac1 Stiff_ECM
+Lats1_2 : Merlin
+miR_29c : 
+Mst1_2 : 
+N_bcatenin : Casp3 GSK3
+PTEN_c : ERK GSK3 S6K
+Stress_Fibers : CellDensity_High Stiff_ECM
+TAZ : J_acatenin Merlin
+TRIO : 
+WT1 : 
+YAP : J_acatenin Merlin
+CyclinD1 : GSK3 p15
+CyclinE : Casp3 Cdc6 Pre_RC
+E2F1 : CAD CyclinA
+Myc : eIF4E ERK GSK3 SMAD2_3_4
+p21 : Casp3 p21_mRNA
+p27Kip1 : Casp3 Cdk1 CyclinA CyclinB FoxO1 FoxO3 Necl5
+pRB : Casp3 CyclinA

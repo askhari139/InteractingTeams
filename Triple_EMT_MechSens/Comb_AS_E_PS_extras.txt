@@ -1,0 +1,44 @@
+BAD : AKT_B AKT_H ERK S6K
+BAK : 
+BAX : 
+BCL2 : U_Kinetochores
+BCLXL : SMAD2_3_4 U_Kinetochores
+BID : 
+BIK : AKT_H SMAD2_3_4
+BIM : ERK FoxO3 GSK3 NfkB Runx1
+Casp2 : Mad2 U_Kinetochores
+Casp3 : 
+Casp8 : 
+Casp9 : 
+Cyto_C : 
+DR4_5 : Trail
+IAPs : AKT_H
+MCL_1 : AKT_B E2F1 ERK GSK3 U_Kinetochores
+SMAC : 
+b_catenin_TCF4 : 
+Ecadherin_mRNA : MCRIP1
+LEF1 : NfkB SMAD2_3_4
+miR_200 : c_Myb p21
+miR_34 : 
+N_bcatenin_H : CyclinE GSK3 J_acatenin N_bcatenin SMAD2_3_4
+SNAI1 : GSK3 HMGA2 NfkB PAK1
+SNAI2 : HMGA2 N_bcatenin SMAD2_3_4
+TGFb_secr : 
+Twist : HMGA2 NfkB
+ZEB1 : 
+ZEB1_H : 
+Cdc20 : Mad2
+Cdc25A : CHK1 CyclinE E2F1 GSK3 pRB
+Cdc25B : f4N_DNA
+Cdc25C : CHK1 f4N_DNA
+Cdh1 : 
+Cdk1 : CHK1
+CyclinA : 
+CyclinA_mRNA : CAD E2F1 pRB
+CyclinB : FoxO3
+Emi1 : A_Kinetochores E2F1 p21 pRB U_Kinetochores
+FoxM1 : CyclinE Myc YAP
+pAPC : 
+Plk1 : Plk1_H
+UbcH10 : 
+Wee1 : CHK1 Replication

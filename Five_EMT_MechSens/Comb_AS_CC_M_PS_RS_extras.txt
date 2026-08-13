@@ -1,0 +1,55 @@
+BAD : AKT_B AKT_H ERK S6K
+BAK : 
+BAX : 
+BCL2 : 
+BCLXL : SMAD2_3_4
+BID : 
+BIK : AKT_H SMAD2_3_4
+BIM : ERK FoxO3 GSK3 NfkB Runx1
+Casp2 : 
+Casp3 : 
+Casp8 : 
+Casp9 : 
+Cyto_C : 
+DR4_5 : Trail
+IAPs : AKT_H
+MCL_1 : AKT_B ERK GSK3
+SMAC : 
+A_Kinetochores : Src
+ATR : 
+CHK1 : 
+Cytokinesis : FAK Src
+Ect2 : 
+f4N_DNA : CAD Pre_RC
+Mad2 : 
+Plk1_H : FoxO1 FoxO3
+Replication : CAD Pre_RC
+U_Kinetochores : 
+Fast_Migration : FocalAdhesions Stress_Fibers
+Horizontal_Pol : ApicalBasal_Pol ECM FAK FocalAdhesions TAZ
+IQGAP1_LeadingE : CellDensity_High FocalAdhesions Grb2
+Merlin : AKT_H ILK J_acatenin J_bcatenin
+PAK1 : 
+Rac1 : FocalAdhesions J_Ecadherin miR_200 miR_34 Necl5 Nectin3 Stiff_ECM TRIO
+Cdc20 : 
+Cdc25A : GSK3
+Cdc25B : 
+Cdc25C : 
+Cdh1 : 
+Cdk1 : 
+CyclinA : 
+CyclinA_mRNA : CAD
+CyclinB : FoxO3
+Emi1 : 
+FoxM1 : YAP
+pAPC : 
+Plk1 : 
+UbcH10 : 
+Wee1 : 
+CyclinD1 : GSK3 p15 YAP
+CyclinE : Cdc6 Pre_RC
+E2F1 : CAD YAP
+Myc : eIF4E ERK GSK3 SMAD2_3_4 YAP
+p21 : p21_mRNA
+p27Kip1 : FoxO1 FoxO3 Necl5
+pRB : 
