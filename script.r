@@ -7,3 +7,5 @@ moduleTSdata <- read_csv("Data_export_for_sharing/panel1_data/panel1_data_tidy.c
 ##outputs
 
 pca <- read_csv("Data_export_for_sharing/pca_metrics/pca_metrics_by_folder.csv")
+ps_data <- read_csv("Data_export_for_sharing/network_level_P_s/network_ps_equal_lmax10.csv")
+
