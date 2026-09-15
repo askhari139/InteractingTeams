@@ -1,0 +1,7 @@
+network_name,network_p_s,p_s_type
+Comb_AS_C_E_M_PS,0.010888845092628774,dominant
+Comb_AS_C_E_M_RS,0.0034663865546218364,dominant
+Comb_AS_C_E_PS_RS,0.06467330196143783,dominant
+Comb_AS_C_M_PS_RS,0.0652412280701753,dominant
+Comb_AS_E_M_PS_RS,0.12953023847728629,dominant
+Comb_C_E_M_PS_RS,0.12971428571428567,dominant
