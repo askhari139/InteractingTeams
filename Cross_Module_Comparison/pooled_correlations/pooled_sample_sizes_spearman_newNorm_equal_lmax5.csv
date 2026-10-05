@@ -1,0 +1,11 @@
+state_type,network_T_s,intra_module_T_s,raw_module_T_s,inter_module_sum_T_s,intra_module_sum_T_s,inter_module_T_s,impurity,density,intra_density,inter_density
+dominant_module,56,180,180,56,56,450,56,56,56,56
+top30_module,56,180,180,56,56,450,56,56,56,56
+top60_module,56,180,180,56,56,450,56,56,56,56
+dominant_network,56,180,180,56,56,450,56,56,56,56
+top30_network,56,180,180,56,56,450,56,56,56,56
+top60_network,56,180,180,56,56,450,56,56,56,56
+PC1_var,56,180,180,56,56,450,56,56,56,56
+NumPC_90,56,180,180,56,56,450,56,56,56,56
+PCA_entropy,56,180,180,56,56,450,56,56,56,56
+PCA_entropy_norm,56,180,180,56,56,450,56,56,56,56

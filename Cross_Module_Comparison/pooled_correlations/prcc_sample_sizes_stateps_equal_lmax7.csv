@@ -1,0 +1,11 @@
+output,n
+network_p_s_dominant,56
+network_p_s_top30,56
+network_p_s_top60,56
+module_p_s_avg_dominant,56
+module_p_s_avg_top30,56
+module_p_s_avg_top60,56
+PC1_var,56
+NumPC_90,56
+PCA_entropy,56
+PCA_entropy_norm,56
