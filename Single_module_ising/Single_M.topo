@@ -1,0 +1,10 @@
+Source Target Type
+PAK1 Merlin 2
+Horizontal_Pol IQGAP1_LeadingE 1
+Rac1 IQGAP1_LeadingE 1
+IQGAP1_LeadingE Horizontal_Pol 1
+Horizontal_Pol Rac1 1
+Merlin Rac1 2
+Rac1 PAK1 1
+Horizontal_Pol Fast_Migration 1
+PAK1 Fast_Migration 1
