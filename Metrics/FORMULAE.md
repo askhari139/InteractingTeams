@@ -17,7 +17,7 @@ against the existing `correlations_*` outputs.
 | symbol | meaning |
 |---|---|
 | `V` | all nodes of the network, in the order given by `<net>_nodes.txt` |
-| `N` | `|V|` — number of nodes in the **whole network** |
+| `N` |  number of nodes in the **whole network** |
 | `A` | signed adjacency: `A[i,j] = +1` if `i -> j` activates, `-1` if it inhibits, `0` otherwise |
 | `I` | influence matrix (§1) |
 | `M` | the node set of one module, from `Single_<M>_nodes.txt` |
