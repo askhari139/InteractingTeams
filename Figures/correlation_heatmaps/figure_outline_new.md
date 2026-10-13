@@ -12,4 +12,11 @@ Figure 1 arrangement -
         Column 1 - E
         Column 2 - F and G
 
+Suppl1 arrangement - 
+    Row 1 - network and adjacency for 1A and 1B empty placeholders for network images
+    Row 2 onwards - network, adjacency, influence and RACIPE heatmap for each module.
 
+Suppl2 arrangemet - 
+    Row 1 - PCA metrics vs density and impurity
+
+Figure 2: 
